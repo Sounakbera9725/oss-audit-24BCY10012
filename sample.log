@@ -1,0 +1,5 @@
+error: failed to start service
+warning: low memory
+info: process started
+error: retrying connection
+error: timeout occurred
