@@ -10,7 +10,7 @@
 |---|---|
 | **Name** | Sounak Bera |
 | **Roll Number** | 24BCY10012 |
-| **Slot** | — |
+| **Slot** | A11 |
 | **Date of Submission** | 31 March 2026 |
 
 ---
